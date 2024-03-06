@@ -74,3 +74,4 @@ C:\Users\DELL\Documents\GitHub\Asp.NetCore-UyelikSistemi\AspNetCoreIdentityApp.W
 C:\Users\DELL\Documents\GitHub\Asp.NetCore-UyelikSistemi\AspNetCoreIdentityApp.Web\AspNetCoreIdentityApp.Web\obj\Debug\net7.0\AspNetCoreIdentityApp.Web.csproj.AssemblyReference.cache
 C:\Users\DELL\Documents\GitHub\Asp.NetCore-UyelikSistemi\AspNetCoreIdentityApp.Web\AspNetCoreIdentityApp.Web\obj\Debug\net7.0\AspNetCo.E2CB611B.Up2Date
 C:\Users\DELL\Documents\GitHub\Asp.NetCore-UyelikSistemi\AspNetCoreIdentityApp.Web\AspNetCoreIdentityApp.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\GitHub\Asp.NetCore-UyelikSistemi\AspNetCoreIdentityApp.Web\AspNetCoreIdentityApp.Web\obj\Debug\net7.0\AspNetCoreIdentityApp.Web.sourcelink.json
